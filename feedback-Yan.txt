@@ -1,0 +1,12 @@
+i've taken a look at it
+i think your work is fine if you're doing exploratory analysis
+however, i think the task is something more "showy"
+i do need to preface this with that i learnt tableau by reading stuff done by people generally regarded as experts
+so my comments will be pretty harsh
+i tend to prefer visualisations that have a flow and a story
+something like this
+https://public.tableau.com/views/MakeoverMonday2017-Week3TrumpTweets/FinalDashboard?:embed=y&:display_count=yes&:showVizHome=no
+for your chosen dataset, i might do something like come up with a slightly ludicrous (but somewhat truthful header), like
+want to survive the titanic? be a rich woman (i recall that the location of boarding actually encodes for wealth)
+i would suggest looking up the past iron viz winners for inspiration
+https://www.tableau.com/about/blog/2017/10/explore-viz-reigned-supreme-iron-viz-2017-77497
